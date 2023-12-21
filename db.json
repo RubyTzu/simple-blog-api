@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My new website",
+            "body": "Hello my name is Ruby, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a laoreet sem. Ut ullamcorper, arcu non volutpat tempor, dui dui molestie lectus, ac volutpat nisi elit et lacus. Praesent fermentum ipsum lorem, nec tincidunt lorem molestie et. Quisque et ligula quis erat porttitor convallis nec eget neque. Curabitur sodales erat vitae nisi vehicula porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eu ante vel justo posuere tincidunt nec eget neque. Sed eget sapien tempor, placerat leo at, dignissim lorem. Mauris ac feugiat tellus. Sed eu pellentesque turpis. Suspendisse non volutpat ante. In placerat eget nisl quis mollis. Proin placerat, neque ac pellentesque tempus, ex enim placerat sapien, nec tincidunt odio dui ac erat. Mauris vehicula scelerisque diam at mattis. Pellentesque vitae orci urna. Proin eget neque sed lorem ultricies pharetra.",
+            "author": "Ruby",
+            "id": 1
+        },
+        {
+            "title": "Welcome party!",
+            "body": "Hello let's party!Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a laoreet sem. Ut ullamcorper, arcu non volutpat tempor, dui dui molestie lectus, ac volutpat nisi elit et lacus. Praesent fermentum ipsum lorem, nec tincidunt lorem molestie et. Quisque et ligula quis erat porttitor convallis nec eget neque. Curabitur sodales erat vitae nisi vehicula porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eu ante vel justo posuere tincidunt nec eget neque. Sed eget sapien tempor, placerat leo at, dignissim lorem. Mauris ac feugiat tellus. Sed eu pellentesque turpis. Suspendisse non volutpat ante. In placerat eget nisl quis mollis. Proin placerat, neque ac pellentesque tempus, ex enim placerat sapien, nec tincidunt odio dui ac erat. Mauris vehicula scelerisque diam at mattis. Pellentesque vitae orci urna. Proin eget neque sed lorem ultricies pharetra.",
+            "author": "Cindy",
+            "id": 2
+        },
+        {
+            "title": "Web dev top tips",
+            "body": "These are the top five tips, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a laoreet sem. Ut ullamcorper, arcu non volutpat tempor, dui dui molestie lectus, ac volutpat nisi elit et lacus. Praesent fermentum ipsum lorem, nec tincidunt lorem molestie et. Quisque et ligula quis erat porttitor convallis nec eget neque. Curabitur sodales erat vitae nisi vehicula porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eu ante vel justo posuere tincidunt nec eget neque. Sed eget sapien tempor, placerat leo at, dignissim lorem. Mauris ac feugiat tellus. Sed eu pellentesque turpis. Suspendisse non volutpat ante. In placerat eget nisl quis mollis. Proin placerat, neque ac pellentesque tempus, ex enim placerat sapien, nec tincidunt odio dui ac erat. Mauris vehicula scelerisque diam at mattis. Pellentesque vitae orci urna. Proin eget neque sed lorem ultricies pharetra.",
+            "author": "Betty",
+            "id": 3
+        }
+    ]
+}
